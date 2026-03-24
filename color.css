@@ -1,0 +1,19 @@
+:root {
+    /* Background */
+    --bg-gradient-start: #667eea;
+    --bg-gradient-end: #764ba2;
+
+    /* Calculator */
+    --calc-bg: #1e1e2f;
+    --display-bg: #111;
+    --text-color: #ffffff;
+
+    /* Buttons */
+    --btn-shadow: rgba(0, 0, 0, 0.2);
+
+    /* Special Buttons */
+    --operator-bg: #ff9f43;
+    --equal-bg: #1dd1a1;
+    --clear-bg: #ee5253;
+    --delete-bg: #576574;
+}
